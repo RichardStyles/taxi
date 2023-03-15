@@ -1,0 +1,47 @@
+{
+  "name": "richardstyles/taxi",
+  "description": "Manage multiple connected valet sites",
+  "keywords": [
+    "laravel",
+    "zonda",
+    "wwdhhd",
+    "valet",
+    "udeploy"
+  ],
+  "type": "project",
+  "require": {
+    "php": "^8.0",
+    "illuminate/collections": "^8.0|^9.0|^10.0",
+    "illuminate/container": "^8.0|^9.0|^10.0",
+    "mnapoli/silly": "^1.8",
+    "symfony/console": "^4.0|^5.0|^6.0",
+    "symfony/process": "^4.0|^5.0|^6.0",
+    "illuminate/http": "^8.0|^9.0|^10.0",
+    "symfony/event-dispatcher": "^3.0|^4.0|^5.0|^6.0",
+    "laravel/valet": "^3.3"
+  },
+  "require-dev": {
+    "mockery/mockery": "^1.5",
+    "yoast/phpunit-polyfills": "^1.0",
+    "laravel/pint": "^1.6"
+  },
+  "license": "gpl-3.0",
+  "autoload": {
+    "files": [
+      "cli/includes/facades.php",
+      "cli/includes/helpers.php"
+    ],
+    "psr-4": {
+      "RichardStyles\\Taxi\\": "cli/Taxi/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Richard Styles",
+      "email": "richardstyles@gmail.com"
+    }
+  ],
+  "bin": [
+    "taxi"
+  ]
+}
