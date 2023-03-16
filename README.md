@@ -24,7 +24,9 @@ To generate a taxi configuration file run
 
 `taxi call`
 
-This defaults to a multi site setup (see below for configuration details)
+This defaults to a multi site setup (see below for configuration details). 
+You MAY have many different folders containing different taxi.json files, when you run build, reset or valid these 
+will only affect the current taxt.json file you are looking at.
 
 `taxi call --single`
 
