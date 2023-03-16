@@ -114,12 +114,12 @@ Thank you for considering contributing to Valet! You can read the contribution g
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Be kind.
 
 ## Security Vulnerabilities
 
-Please review [our security policy](https://github.com/laravel/valet/security/policy) on how to report security vulnerabilities.
+Please review [our security policy](https://github.com/richardstyles/taxi/security/policy) on how to report security vulnerabilities.
 
 ## License
 
-Laravel Valet is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Taxi is open-sourced software licensed under the [GNU General Public License version 3](https://opensource.org/license/gpl-3-0/).
