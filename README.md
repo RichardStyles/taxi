@@ -110,7 +110,7 @@ Check to see if the taxi configuration is valid
 
 ## Contributing
 
-Thank you for considering contributing to Valet! You can read the contribution guide [here](.github/CONTRIBUTING.md).
+Have an idea which can help improve Taxi, then please PR detailing your suggestion and improvements.
 
 ## Code of Conduct
 
